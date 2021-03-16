@@ -58,6 +58,7 @@
 - https://www.studyinfinland.fi
 - https://hive.fi
 - https://openlearning.aalto.fi
+- https://www.mooc.fi
 
 ## Авто
 
