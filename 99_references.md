@@ -45,12 +45,6 @@
 
 - https://t.me/rus_fin_news
 
-## Коллекции
-
-- https://www.pohjoiseen.fi
-- https://github.com/alexeykorsakov/finland
-- https://finland.d3.ru
-
 ## Форумы
 
 - https://russian.fi
@@ -77,10 +71,13 @@
 
 ## Прочее
 
+- https://finland.d3.ru
 - https://tjournal.ru/s/emigration
 - https://habr.com/ru/hub/it_immigration
 - https://journal.tinkoff.ru/tag/emigratsiia
 - https://visasam.ru/emigration
+- https://www.pohjoiseen.fi
+- https://github.com/alexeykorsakov/finland
 - https://dou.ua/forums/emigration
 
 ## Германия
