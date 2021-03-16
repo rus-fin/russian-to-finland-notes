@@ -11,7 +11,6 @@
 
 - https://www.infofinland.fi/en/moving-to-finland/checklist-for-a-person-who-is-moving-to-finland
 - https://enterfinland.fi
-- https://raja.fi
 - https://www.expat-finland.com
 
 ## Поиск работы
@@ -44,8 +43,9 @@
 - https://suomitaskussa.eu
 - https://www.osaansuomea.fi
 
-## Тематические источники
+## Государственная граница
 
+- https://raja.fi
 - https://t.me/rus_fin_news
 
 ## Форумы и чаты
