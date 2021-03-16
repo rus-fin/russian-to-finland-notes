@@ -7,8 +7,9 @@
 - https://kela.fi
 - https://vero.fi
 
-## ВНЖ
+## Миграция
 
+- https://www.infofinland.fi/en/moving-to-finland/checklist-for-a-person-who-is-moving-to-finland
 - https://enterfinland.fi
 
 ## Поиск работы
