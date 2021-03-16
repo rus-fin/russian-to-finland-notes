@@ -33,8 +33,12 @@
 
 ## Изучение языка
 
+- https://www.reddit.com/r/LearnFinnish/wiki/resources
 - https://suomesta.ru
 - https://uusikielemme.fi
+- http://www04.edu.fi/suomeaolehyva
+- https://suomitaskussa.eu
+- https://www.osaansuomea.fi
 
 ## Тематические источники
 
@@ -56,12 +60,19 @@
 
 - https://www.studyinfinland.fi
 - https://hive.fi
+- https://openlearning.aalto.fi
 
 ## Авто
 
 - https://www.nettiauto.com
 - https://www.copart.fi
 - https://finland.d3.ru/finskie-pdd-bolshoi-faq-1678069
+
+## Законы
+
+- https://www.suomesta.ru/2020/11/12/orlov-v-g-pravovaya-sistema-finlyandii-2020-statya/
+- https://web.archive.org/web/20200312003848/http://www.finlex.fi/fi/laki/kaannokset/1999/ru19990731.pdf
+- https://finlex.fi
 
 ## Прочее
 
