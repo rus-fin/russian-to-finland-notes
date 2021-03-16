@@ -46,7 +46,7 @@
 
 - https://t.me/rus_fin_news
 
-## Форумы
+## Форумы и чаты
 
 - https://russian.fi
 - https://t.me/rus_fin_border
@@ -74,7 +74,7 @@
 ## Законы в России
 
 - [Уведомление о ВНЖ](https://journal.tinkoff.ru/ask/uvedomlenie-o-vnzh)
-- [Уведомление о банковских счетах зарубежом](https://journal.tinkoff.ru/news/rasskazhite-fns-o-schete)
+- [Уведомление о банковских счетах зарубежом для резидентов](https://journal.tinkoff.ru/news/rasskazhite-fns-o-schete)
 
 ## Прочее
 
@@ -100,3 +100,6 @@ finland, suomi, финляндия, суоми,
 russia, venaja, venäjä, россия, из россии в финляндию,
 work, työ, трудовая, труд, работа,
 residence permit, рабочая виза,
+guide, manual, help, помощь, инструкция, гайд,
+checklist, чеклист, список,
+experience, опыт,
