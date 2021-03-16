@@ -99,7 +99,7 @@ relocation, преезд, миграция, эмиграция, миграция
 finland, suomi, финляндия, суоми,
 russia, venaja, venäjä, россия, из россии в финляндию,
 work, työ, трудовая, труд, работа,
-residence permit, рабочая виза,
+residence permit, oleskelulupa, разрешение на пребывание, рабочая виза, резиденс пермит,
 guide, manual, help, помощь, инструкция, гайд,
 checklist, чеклист, список,
 experience, опыт,
