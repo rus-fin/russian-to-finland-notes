@@ -89,6 +89,7 @@
 - https://www.pohjoiseen.fi
 - https://github.com/alexeykorsakov/finland
 - https://dou.ua/forums/emigration
+- https://github.com/goq/telegram-list
 
 ## Германия
 
