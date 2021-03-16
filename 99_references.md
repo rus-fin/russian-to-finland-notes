@@ -12,6 +12,7 @@
 - https://www.infofinland.fi/en/moving-to-finland/checklist-for-a-person-who-is-moving-to-finland
 - https://enterfinland.fi
 - https://raja.fi
+- https://www.expat-finland.com
 
 ## Поиск работы
 
