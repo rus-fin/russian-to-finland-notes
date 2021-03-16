@@ -11,6 +11,7 @@
 
 - https://www.infofinland.fi/en/moving-to-finland/checklist-for-a-person-who-is-moving-to-finland
 - https://enterfinland.fi
+- https://raja.fi
 
 ## Поиск работы
 
@@ -59,15 +60,21 @@
 
 ## Авто
 
-- https://www.nettiauto.com
-- https://www.copart.fi
-- https://finland.d3.ru/finskie-pdd-bolshoi-faq-1678069
+- https://traficom.fi
+- https://nettiauto.com
+- https://copart.fi
+- [Финские ПДД FAQ](https://finland.d3.ru/finskie-pdd-bolshoi-faq-1678069)
 
-## Законы
+## Законы в Финляндии
 
-- https://www.suomesta.ru/2020/11/12/orlov-v-g-pravovaya-sistema-finlyandii-2020-statya/
-- https://web.archive.org/web/20200312003848/http://www.finlex.fi/fi/laki/kaannokset/1999/ru19990731.pdf
+- [Правовая система Финляндии](https://www.suomesta.ru/2020/11/12/orlov-v-g-pravovaya-sistema-finlyandii-2020-statya)
+- [Конституция Финляндии](https://web.archive.org/web/20200312003848/http://www.finlex.fi/fi/laki/kaannokset/1999/ru19990731.pdf)
 - https://finlex.fi
+
+## Законы в России
+
+- [Уведомление о ВНЖ](https://journal.tinkoff.ru/ask/uvedomlenie-o-vnzh)
+- [Уведомление о банковских счетах зарубежом](https://journal.tinkoff.ru/news/rasskazhite-fns-o-schete)
 
 ## Прочее
 
@@ -86,3 +93,10 @@
 - https://github.com/azproduction/relocating-to-berlin
 - https://github.com/bigpianist/BerlinRelocationGuide
 - https://github.com/IwonaZ/berlin_relocation
+
+## Buzzwords
+relocation, преезд, миграция, эмиграция, миграция,
+finland, suomi, финляндия, суоми,
+russia, venaja, venäjä, россия, из россии в финляндию,
+work, työ, трудовая, труд, работа,
+residence permit, рабочая виза,
