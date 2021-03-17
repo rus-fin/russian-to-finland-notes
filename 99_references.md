@@ -90,6 +90,7 @@
 - https://github.com/alexeykorsakov/finland
 - https://dou.ua/forums/emigration
 - https://github.com/goq/telegram-list
+- https://www.expatolife.com/living-in-helsinki/
 
 ## Германия
 
