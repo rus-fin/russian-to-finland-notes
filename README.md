@@ -26,8 +26,6 @@
 - [Покупка автомобиля](51_Покупка_автомобиля.md)
 - [Ввоз автомобиля](52_Ввоз_автомобиля.md)
 - [Вывоз автомобиля](53_Вывоз_автомобиля.md)
-- [migri schedule alert](97_migri_schedule_alert.md)
-- [relocation notes](98_relocation_notes.md)
 - [Ссылки](99_references.md)
 
 ## Поддержка проекта
