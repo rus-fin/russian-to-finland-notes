@@ -6,6 +6,7 @@
 - https://dvv.fi
 - https://kela.fi
 - https://vero.fi
+- https://helsinki.mid.ru/obsaa-informacia
 
 ## Миграция
 
