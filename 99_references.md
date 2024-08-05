@@ -1,12 +1,15 @@
 # Прочие источники
 
-## Социальные сервисы
+## Социальные сервисы в Финляндии
 
 - https://migri.fi
 - https://dvv.fi
 - https://kela.fi
 - https://vero.fi
-- https://helsinki.mid.ru/obsaa-informacia
+
+## Сервисы МИД РФ
+
+- https://helsinki.mid.ru
 
 ## Миграция
 
