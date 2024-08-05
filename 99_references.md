@@ -16,7 +16,6 @@
 
 ## Поиск работы
 
-- https://hh.ru/search/vacancy?st=searchVacancy&area=100
 - https://toughbyte.com/positions?location=Finland
 - https://thehub.io
 - https://linkedin.com
@@ -34,6 +33,7 @@
 ## Доски объявлений
 
 - https://tori.fi
+- https://huutokaupat.com
 
 ## Изучение языка
 
